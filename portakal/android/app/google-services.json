@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "171644187273",
+    "project_id": "portakal-bfe60",
+    "storage_bucket": "portakal-bfe60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171644187273:android:2ea56b3ddb6c98b070cc58",
+        "android_client_info": {
+          "package_name": "denizhan.portakal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171644187273-e6g77caa56m55bsjor1hnosa7ldo1lh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSeXIpAqAKdf7e7OsGV0OChuzmz1W8e7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171644187273-e6g77caa56m55bsjor1hnosa7ldo1lh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
